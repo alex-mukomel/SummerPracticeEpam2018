@@ -1,0 +1,1 @@
+C:\Users\mukom\source\repos\Rewards.BLL\Rewards.DAL\obj\Debug\Rewards.DAL.csproj.CoreCompileInputs.cache

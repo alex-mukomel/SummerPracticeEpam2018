@@ -1,0 +1,2 @@
+C:\Users\mukom\source\repos\Rewards.BLL\Rewards.DAL.Interface\obj\Debug\Rewards.DAL.Interface.csprojAssemblyReference.cache
+C:\Users\mukom\source\repos\Rewards.BLL\Rewards.DAL.Interface\obj\Debug\Rewards.DAL.Interface.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\mukom\source\repos\Rewards.BLL\Rewards.Entities1\obj\Debug\Rewards.Entities.csprojAssemblyReference.cache
+C:\Users\mukom\source\repos\Rewards.BLL\Rewards.Entities1\obj\Debug\Rewards.Entities.csproj.CoreCompileInputs.cache
